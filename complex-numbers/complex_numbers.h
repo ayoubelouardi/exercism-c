@@ -4,14 +4,10 @@
 #include <math.h>
 
 
-
 #define A a.real
 #define B a.imag
 #define C b.real
 #define D b.imag
-#define I sqrt(-1)
-
-
 
 typedef struct {
    double real;
